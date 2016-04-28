@@ -5,7 +5,7 @@ import os
 # Help segment of the program
 Syntax_Help = '{0} csv_file'
 
-# System check
+
 # Function printing each row of a CSV file
 def print_csv(name: str) -> None:
     # Opens a file as a CSV
