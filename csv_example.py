@@ -3,7 +3,7 @@ import sys
 import os
 
 # Help segment of the program
-Syntax_Help = '{0} csv_file'
+Syntax_Help = '{0} aa'
 
 
 # Function printing each row of a CSV file
